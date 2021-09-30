@@ -12,9 +12,9 @@ The sealer node addresses are:
 
 The account password for both nodes is `123`
 
-This is the configuration from `puppeth`:
+This is the configuration from `fintech`:
 
-![fintech](Screenshots/setting up the proof_of_authority.jpeg)
+![fintech](Screenshot folder/setting up the proof_of_authority.JPG)
 
 ## Install the geth node software
 
