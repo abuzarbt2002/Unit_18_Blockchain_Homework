@@ -14,7 +14,7 @@ The account password for both nodes is `123`
 
 This is the configuration from `fintech`:
 
-![setting up the proof_of_authority](Screenshot folder/setting up the proof_of_authority.JPG)
+![](Screenshot%20folder/setting%20up%20the%20proof_of_authority.JPG)
 
 ## Install the geth node software
 
