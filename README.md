@@ -66,7 +66,7 @@ Your configuration should look like this:
 You should now be connected to the local blockchain.
 
 Click on the `Keystore file` option to access the first node's wallet, and navigate to `node1/keystore` and select
-the keystore file, then enter `testnetpassword` as the password.
+the keystore file, then enter `123` as the password.
 
 You should now be able to send a transaction. Fill in the second node's account and send it one ETH.
 
