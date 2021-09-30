@@ -14,7 +14,7 @@ The account password for both nodes is `123`
 
 This is the configuration from `fintech`:
 
-![fintech](POA%20Development%20Chain/fintech/Screenshot%20folder/setting%20up%20the%20proof_of_authority.JPG)
+![fintech](Screenshot%20folder/setting%20up%20the%20proof_of_authority.JPG)
 
 ## Install the geth node software
 
@@ -70,7 +70,7 @@ the keystore file, then enter `123` as the password.
 
 You should now be able to send a transaction. Fill in the second node's account and send it one ETH.
 
-![transaction-send](POA%20Development%20Chain/fintech/Screenshot%20folder/Confirming%20transaction.JPG)
+![transaction-send](Screenshot%20folder/Confirming%20transaction.JPG)
 
 Once confirmed, you can check the TX Status by clicking the button in the popup, or pasting the TX Hash into the TX Status section of the app.
 
