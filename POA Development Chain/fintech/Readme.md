@@ -61,12 +61,12 @@ Select `Add Custom Node` and use `127.0.0.1:8545` to connect to the first node, 
 
 Your configuration should look like this:
 
-![custom-node](POA%20Development%20Chain/fintech/Screenshot%20folder/Setting_up_custom_node.JPG)
+![custom-node](Screenshot%20folder/Setting_up_custom_node.JPG)
 
 You should now be connected to the local blockchain.
 
 Click on the `Keystore file` option to access the first node's wallet, and navigate to `node1/keystore` and select
-the keystore file, then enter `testnetpassword` as the password.
+the keystore file, then enter `123` as the password.
 
 You should now be able to send a transaction. Fill in the second node's account and send it one ETH.
 
