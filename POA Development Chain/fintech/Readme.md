@@ -74,6 +74,6 @@ You should now be able to send a transaction. Fill in the second node's account 
 
 Once confirmed, you can check the TX Status by clicking the button in the popup, or pasting the TX Hash into the TX Status section of the app.
 
-![transaction-success](POA%20Development%20Chain/fintech/Screenshot%20folder/Successful%20Transaction%20Status.JPG)
+![transaction-success](Screenshot%20folder/Successful%20Transaction%20Status.JPG)
 
 Voila! You can now use the PupperNet blockchain for your local development!
